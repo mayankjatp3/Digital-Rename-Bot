@@ -55,7 +55,7 @@ async def handle_banned_user_status(bot, message):
         ).days > ban_status["ban_duration"]:
             await digital_botz.remove_ban(user_id)
         else:
-            return await message.reply_text("Sorry Sir, 😔 You are Banned!.. Please Contact - @DigitalBotz") 
+            return await message.reply_text("Sorry Sir, 😔 You are Banned!.. Please Contact - @oo7jatji") 
     await message.continue_propagation()
     
 @Client.on_message(filters.private)
