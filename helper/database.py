@@ -1,7 +1,7 @@
 # (c) @RknDeveloperr
 # Rkn Developer 
 # Don't Remove Credit 😔
-# Telegram Channel @RknDeveloper & @Rkn_Botz
+# Telegram Channel @RknDeveloper & @WarriorUnitsBots
 # Developer @RknDeveloperr
 # Special Thanks To (https://github.com/JayMahakal98)
 # Update Channel @Digital_Botz & @DigitalBotz_Support
@@ -57,7 +57,7 @@ class Database:
             uploadlimit=Config.FREE_UPLOAD_LIMIT,
             daily=0,
             metadata_mode=False,
-            metadata_code="--change-title @Rkn_Botz\n--change-video-title @Rkn_Botz\n--change-audio-title @Rkn_Botz\n--change-subtitle-title @Rkn_Botz\n--change-author @Rkn_Botz",
+            metadata_code="--change-title @WarriorUnitsBots\n--change-video-title @WarriorUnitsBots\n--change-audio-title @WarriorUnitsBots\n--change-subtitle-title @WarriorUnitsBots\n--change-author @WarriorUnitsBots",
             expiry_time=None,
             has_free_trial=False,
             ban_status=dict(
@@ -259,6 +259,6 @@ digital_botz = Database(Config.DB_URL, Config.DB_NAME)
 
 # Rkn Developer 
 # Don't Remove Credit 😔
-# Telegram Channel @RknDeveloper & @Rkn_Botz
+# Telegram Channel @RknDeveloper & @WarriorUnitsBots
 # Developer @RknDeveloperr
 # Update Channel @Digital_Botz & @DigitalBotz_Support
